@@ -1,2 +1,2 @@
-# JAVA---Practice
+# JAVA-Practice
 Java programs
